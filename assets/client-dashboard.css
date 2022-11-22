@@ -1,0 +1,30 @@
+.client-dashboard {
+	margin-top: 2rem;
+}
+
+.client-dashboard__name,
+.client-dashboard__version {
+	padding-right: 1rem;
+}
+
+.client-dashboard__update-button {
+	background-color: transparent;
+	border: none;
+	color: #2271b1;
+	cursor: pointer;
+	padding: 0;
+}
+
+.client-dashboard__client {
+	margin: 1rem 0;
+}
+
+.client-dashboard__host {
+	display: inline-block;
+	font-size: 24px;
+	margin-bottom: 0;
+}
+
+details > summary {
+	font-size: 24px;
+}

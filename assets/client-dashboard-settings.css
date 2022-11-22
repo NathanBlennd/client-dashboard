@@ -1,0 +1,6 @@
+.client_dashboard_row select,
+.client_dashboard_row input,
+.client_dashboard_row textarea {
+	max-width: 35rem;
+	width: 100%;
+}
